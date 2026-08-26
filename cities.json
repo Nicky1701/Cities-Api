@@ -1,14 +1,34 @@
 {
-  "Cities": [
-    "Mumbai",
-    "Delhi",
-    "Hyderabad",
-    "Chennai",
-    "Bengaluru",
-    "Visakhapatnam",
-    "Vijayawada",
-    "Pune",
-    "Kolkata",
-    "Ahmedabad"
+  "cities": [
+    {
+      "City": "Mumbai"
+    },
+    {
+      "City": "Delhi"
+    },
+    {
+      "City": "Hyderabad"
+    },
+    {
+      "City": "Chennai"
+    },
+    {
+      "City": "Bengaluru"
+    },
+    {
+      "City": "Visakhapatnam"
+    },
+    {
+      "City": "Vijayawada"
+    },
+    {
+      "City": "Pune"
+    },
+    {
+      "City": "Kolkata"
+    },
+    {
+      "City": "Ahmedabad"
+    }
   ]
 }

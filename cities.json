@@ -1,5 +1,4 @@
-{
-  "Cities": [
+[
     {
       "City": "Mumbai"
     },
@@ -31,4 +30,4 @@
       "City": "Ahmedabad"
     }
   ]
-}
+
